@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "fullName": "Mr Bean",
+      "username": "bean",
+      "email": "bean@mail.com",
+      "password": "qwerty",
+      "id": 1
+    },
+    {
+      "fullName": "Devil Bean",
+      "username": "bean666",
+      "email": "bean666@mail.com",
+      "password": "qwerty",
+      "id": 2
+    }
+  ],
+  "products": []
+}
