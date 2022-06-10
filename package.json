@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "server-bisa-apa-aja": "json-server --watch ./database/emerce.json --port 2104",
+    "server-emerce": "json-server --watch ./database/emerce.json --port 2104",
     "server-todo": "json-server --watch ./database/todo.json --port 2104",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
