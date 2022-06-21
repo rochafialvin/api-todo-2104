@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "server-next": "json-server --watch ./database/next.json --port 2104",
     "server-emerce": "json-server --watch ./database/emerce.json --port 2104",
     "server-todo": "json-server --watch ./database/todo.json --port 2104",
     "test": "echo \"Error: no test specified\" && exit 1"
